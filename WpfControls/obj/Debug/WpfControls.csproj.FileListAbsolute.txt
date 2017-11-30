@@ -1,0 +1,8 @@
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\bin\Debug\WpfControls.dll
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\bin\Debug\WpfControls.pdb
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\obj\Debug\WpfControls.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\obj\Debug\WpfControls.Properties.Resources.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\obj\Debug\WpfControls.csproj.GenerateResource.Cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\obj\Debug\WpfControls.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\obj\Debug\WpfControls.dll
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfControls\obj\Debug\WpfControls.pdb

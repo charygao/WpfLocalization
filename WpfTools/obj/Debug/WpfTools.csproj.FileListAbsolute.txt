@@ -1,0 +1,24 @@
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\ResolveAssemblyReference.cache
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\Themes\WhistlerBlue.baml
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\Themes\ExpressionDark.baml
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\Themes\BureauBlue.baml
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\Themes\BureauBlack.baml
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\WpfTools_MarkupCompile.cache
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\WpfTools.g.resources
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\WpfTools.Properties.Resources.resources
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\WpfTools.csproj.GenerateResource.Cache
+C:\projects2008\Articles\WpfLocalization\WpfTools\bin\Debug\WpfTools.dll
+C:\projects2008\Articles\WpfLocalization\WpfTools\bin\Debug\WpfTools.pdb
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\WpfTools.dll
+C:\projects2008\Articles\WpfLocalization\WpfTools\obj\Debug\WpfTools.pdb
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\Themes\WhistlerBlue.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\Themes\ExpressionDark.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\Themes\BureauBlue.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\Themes\BureauBlack.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools_MarkupCompile.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools.g.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools.Properties.Resources.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools.csproj.GenerateResource.Cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfTools\obj\Debug\WpfTools.dll

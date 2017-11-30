@@ -1,0 +1,68 @@
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\en-US\WpfLocalizationLocBaml.resources.dll
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\de\WpfLocalizationLocBaml.resources.dll
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WPFToolkit.dll
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.exe.config
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.exe.manifest
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.application
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.exe
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.pdb
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\bin\Debug\WPFToolkit.pdb
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\ResolveAssemblyReference.cache
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\ApplicationResources.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\StartForm.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\Test.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\Themes\BureauBlue.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\Themes\ExpressionDark.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\Themes\WhistlerBlue.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\App.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\LocalizationInfo.g.cs
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\StartForm.g.cs
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\Test.g.cs
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\App.g.cs
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml_MarkupCompile.cache
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml_MarkupCompile.lref
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.Properties.Resources.resources
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.Properties.Resources.en-US.resources
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.Properties.Resources.de.resources
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.csproj.GenerateResource.Cache
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\LocalizationInfo.baml
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.g.en-US.resources
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\en-US\WpfLocalizationLocBaml.resources.dll
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\de\WpfLocalizationLocBaml.resources.dll
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.exe.manifest
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.application
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.exe
+C:\projects2008\Articles\WpfLocalization\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.pdb
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\ApplicationResources.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\StartForm.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\Test.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\Themes\BureauBlue.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\Themes\ExpressionDark.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\Themes\WhistlerBlue.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\App.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\LocalizationInfo.g.cs
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\StartForm.g.cs
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\Test.g.cs
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\App.g.cs
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml_MarkupCompile.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml_MarkupCompile.lref
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.Properties.Resources.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.Properties.Resources.en-US.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.Properties.Resources.de.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.csproj.GenerateResource.Cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.exe
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.exe.config
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.exe.manifest
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.application
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.exe
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\WpfLocalizationLocBaml.pdb
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\en-US\WpfLocalizationLocBaml.resources.dll
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\bin\Debug\de\WpfLocalizationLocBaml.resources.dll
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\LocalizationInfo.baml
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.g.en-US.resources
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\en-US\WpfLocalizationLocBaml.resources.dll
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\de\WpfLocalizationLocBaml.resources.dll
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.exe.manifest
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.application
+D:\Program Files\HK\Desktop\WpfLocalization_code\WpfLocalizationLocBaml\obj\Debug\WpfLocalizationLocBaml.pdb
